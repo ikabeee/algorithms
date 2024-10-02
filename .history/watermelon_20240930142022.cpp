@@ -18,6 +18,7 @@ SI, si los niños pueden dividir la sandía en dos partes, cada una de ellas con
 using namespace std;
 int kgWatermelon = 0, moduleOfWatermelon = 0;
 
+
 int calculateModule (int kgWatermelon){
     return kgWatermelon % 2;
 }
